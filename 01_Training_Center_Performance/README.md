@@ -31,6 +31,6 @@ As an experienced operator in the high-competition international education secto
 
 ## 🖼️ Dashboard & Architecture Preview
 
-### 2. Financial Architecture & Formula Rigor (Excel)
+**Financial Architecture & Formula Rigor (Excel)**
 ![Excel Financial Architecture](https://github.com/EricMedore/corporate-finance-portfolio/blob/main/01_Training_Center_Performance/Training%20Center%20Financial%20Model%20(Eric%20Medore)%20Financial%20Summary%20Preview.png)
 *Built utilizing strict institutional design principles, featuring dynamic cell-linking and an integrated 3-statement forecast.*
