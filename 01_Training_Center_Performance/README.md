@@ -1,4 +1,3 @@
-TRAINING CENTER
 # 📈 International Education Center: 10-Year Operational Strategy & Project Finance Model
 
 ## 🚀 Executive Summary
@@ -10,7 +9,6 @@ The analysis proves that by optimizing labor capacity and classroom yields, a si
 
 ## 🗂️ Project Deliverables & Interactive Links
 * 📥 **[Download Financial Model (Excel)](https://github.com)** — Fully dynamic 10-year forecasting and capital structure workbook.
-
 
 ---
 
@@ -32,10 +30,6 @@ As an experienced operator in the high-competition international education secto
 ---
 
 ## 🖼️ Dashboard & Architecture Preview
-
-### 1. Classroom Capacity Optimization Heatmap (Tableau)
-![Tableau Capacity Dashboard](./dashboard_preview.png)
-*Isolates underutilized gaps in room scheduling to improve fixed-cost efficiencies and schedule peak-demand cohorts.*
 
 ### 2. Financial Architecture & Formula Rigor (Excel)
 ![Excel Financial Architecture](./excel_summary_tab.png)
