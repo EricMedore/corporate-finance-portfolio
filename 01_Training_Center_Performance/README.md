@@ -8,7 +8,7 @@ The analysis proves that by optimizing labor capacity and classroom yields, a si
 ---
 
 ## 🗂️ Project Deliverables & Interactive Links
-* 📥 **[Download Financial Model (Excel)](https://github.com)** — Fully dynamic 10-year forecasting and capital structure workbook.
+* 📥 **[Download Financial Model (Excel)](https://github.com/EricMedore/corporate-finance-portfolio/raw/refs/heads/main/01_Training_Center_Performance/Training%20Center%20Financial%20Model%20(Eric%20Medore).xlsx)** — Fully dynamic 10-year forecasting and capital structure workbook.
 
 ---
 
